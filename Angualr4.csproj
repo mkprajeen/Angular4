@@ -7,11 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="dist\**" />
+    <EmbeddedResource Remove="dist\**" />
+    <None Remove="dist\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="e2e\tsconfig.e2e.json" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="dist\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
