@@ -42,3 +42,5 @@ yarn-error.log
 .DS_Store
 Thumbs.db
 /wwwroot
+/bin/Debug/netcoreapp2.0
+/obj
