@@ -44,3 +44,5 @@ Thumbs.db
 /wwwroot
 /bin/Debug/netcoreapp2.0
 /obj
+/.vs/Angualr4Sol/v15/sqlite3
+/.vs/config
