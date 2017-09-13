@@ -17,9 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="src\app\pages\components\" />
-    <Folder Include="src\app\pages\forms\" />
-    <Folder Include="src\app\pages\ui\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
