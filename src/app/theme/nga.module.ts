@@ -14,21 +14,21 @@ import {
 } from './theme.configProvider';
 
 import {
- // BaAmChart,
+  BaAmChart,
   BaBackTop,
   BaCard,
  
-  //BaCheckbox,
+  BaCheckbox,
   BaContentTop,
- // BaFullCalendar,
+  BaFullCalendar,
   BaMenuItem,
   BaMenu,
   BaMsgCenter,
-  //BaMultiCheckbox,
+  BaMultiCheckbox,
   BaPageTop,
-  //BaPictureUploader,
+  BaPictureUploader,
   BaSidebar,
-  //BaFileUploader
+  BaFileUploader
 } from './components';
 
 import { BaCardBlur } from './components/baCard/baCardBlur.directive';
@@ -58,20 +58,20 @@ import {
 } from './validators';
 
 const NGA_COMPONENTS = [
-  //BaAmChart,
+  BaAmChart,
   BaBackTop,
   BaCard,
-  //BaCheckbox,
+  BaCheckbox,
   BaContentTop,
-  //BaFullCalendar,
+  BaFullCalendar,
   BaMenuItem,
   BaMenu,
   BaMsgCenter,
-  //BaMultiCheckbox,
+  BaMultiCheckbox,
   BaPageTop,
-  //BaPictureUploader,
+  BaPictureUploader,
   BaSidebar,
-  //BaFileUploader
+  BaFileUploader
 ];
 
 const NGA_DIRECTIVES = [
