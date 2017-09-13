@@ -19,10 +19,7 @@
   <ItemGroup>
     <Folder Include="src\app\pages\components\" />
     <Folder Include="src\app\pages\forms\" />
-    <Folder Include="src\app\pages\login\" />
-    <Folder Include="src\app\pages\register\" />
     <Folder Include="src\app\pages\ui\" />
-    <Folder Include="src\assets\css\" />
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
